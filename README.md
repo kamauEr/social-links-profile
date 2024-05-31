@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [social-links-profile-github](https://github.com/kamauEr/social-links-profile)
+- Live Site URL: [Social-links-profile-site](https://kamauer.github.io/social-links-profile/)
 
 ## My process
 
@@ -75,6 +75,5 @@ I shall add interactivity once i learn more about javascript.
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [Eric Kamau](https://github.com/kamauEr/)
+- Frontend Mentor - [@kamauEr](https://www.frontendmentor.io/profile/kamauEr)
