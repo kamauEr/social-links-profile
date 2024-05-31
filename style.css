@@ -31,7 +31,7 @@ a {
 
 .test {
   padding-inline: 15rem;
-  margin: 4rem auto 0;
+  margin: 6rem auto 0;
   background-color: hsl(0, 0%, 12%);
   box-shadow: 10px 15px 15px rgba(0, 0, 0, 0.2);
   width: 32rem;
@@ -43,6 +43,7 @@ a {
 .img {
   width: 9rem;
   margin: 0 auto;
+  margin-bottom: 1.8rem;
 }
 
 .img img {
@@ -55,10 +56,11 @@ a {
   font-size: 2.3rem;
 }
 
-.test h2 {
+.test h6 {
   color: hsl(75, 94%, 57%);
-  font-weight: 600;
-  font-size: 2.3rem;
+  font-size: 14px;
+  font-weight: 400;
+  font-size: 1.4rem;
   margin-top: 1rem;
   margin-bottom: 3rem;
 }
