@@ -31,7 +31,7 @@ a {
 
 .test {
   padding-inline: 15rem;
-  margin: 6rem auto 0;
+  margin: 9rem auto 0;
   background-color: hsl(0, 0%, 12%);
   box-shadow: 10px 15px 15px rgba(0, 0, 0, 0.2);
   width: 32rem;
